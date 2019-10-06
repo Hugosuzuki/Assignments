@@ -1,0 +1,9 @@
+﻿  SaveLoad.cpp
+  Wrapper.cpp
+     Creating library C:\Users\hugoa\source\repos\SaveLoadDll\x64\Release\SaveLoadDll.lib and object C:\Users\hugoa\source\repos\SaveLoadDll\x64\Release\SaveLoadDll.exp
+  Generating code
+  11 of 163 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SaveLoadDll.vcxproj -> C:\Users\hugoa\source\repos\SaveLoadDll\x64\Release\SaveLoadDll.dll
